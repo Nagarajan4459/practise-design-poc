@@ -36,7 +36,7 @@
 						<username>${anypoint.username}</username>
 						<password>${anypoint.password}</password>
 						<environment>${mule.env}</environment>
-						<applicationName>${appname}</applicationName>
+						<applicationName>practise-design-poc</applicationName>
 						<businessGroup>${business}</businessGroup>
 						<workerType>${VCore}</workerType>
 						<workers>${workers}</workers>
